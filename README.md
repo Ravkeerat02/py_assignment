@@ -4,16 +4,16 @@
 #Menu page 
 #SUB**
   **#Employee page**
-    #Fucntion - user information 
-    #2D ARRAY 
-    #validating info 
+    Fucntion - user information 
+    2D ARRAY 
+    validating info 
   **#Item Page **
-    #Function - user info 
-    #2D ARRAY 
-    #VALIDATE
+    Function - user info 
+    2D ARRAY 
+    VALIDATE
   **#Purchase**
   **#Summary Page**
-    #will include 
+    will include 
       #ID 
       #Name 
       #Type 
