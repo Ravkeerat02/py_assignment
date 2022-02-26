@@ -14,11 +14,11 @@
   **#Purchase**
   **#Summary Page**
     will include 
-      ID 
-      Name 
-      Type 
-      Year Experience 
-      Total Purchase
-      Dicount no
+      -ID 
+      -Name 
+      -Type 
+      -Year Experience 
+      -Total Purchase
+      -Dicount no
 
 
